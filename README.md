@@ -7,7 +7,6 @@ This project is a machine learning-based web application designed to predict whe
 This is a simple machine learning application that predicts the likelihood of diabetes based on 8 input features like Glucose level, Blood Pressure, Age, etc. It uses a Logistic Regression model trained on the Pima Indians Diabetes Dataset.
 
 🔧 Tech Stack
-
 - Python 🐍
 - Pandas & NumPy
 - Scikit-learn
