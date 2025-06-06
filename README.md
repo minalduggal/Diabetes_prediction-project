@@ -1,4 +1,5 @@
 🩺 Diabetes Prediction using Machine Learning
+
 This project is a machine learning-based web application designed to predict whether a person is diabetic or not based on medical information. The app uses a trained model and a user-friendly interface built with Streamlit.
 
 🧠 Overview
