@@ -9,8 +9,6 @@ This is a simple machine learning application that predicts the likelihood of di
 🔧 Tech Stack
 - Python 🐍
 - Pandas & NumPy
-- Scikit-learn
-- Streamlit
 
 📊 Dataset
 
