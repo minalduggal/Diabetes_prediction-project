@@ -71,10 +71,10 @@ The application allows users to enter medical and personal health information su
 
 | Metric            | Score |
 | ----------------- | ----- |
-| Training Accuracy | ~82%  |
-| Testing Accuracy  | ~72%  |
+| Training Accuracy | ~78.66%  |
+| Testing Accuracy  | ~77.27%  |
 
-*Performance may vary slightly depending on train-test split and model parameters.*
+*The relatively small gap between training and testing accuracy indicates good generalization and limited overfitting.*
 
 ---
 
